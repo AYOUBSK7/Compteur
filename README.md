@@ -2,7 +2,7 @@
 
 Application Android (Kotlin) de type compteur : un TextView affiche une valeur que l'on peut augmenter, diminuer ou remettre à zéro avec des boutons.
 
-TP1 Android Studio, Licence DSI, ISET.
+Boussoukaya Ayoub
 
 ## Fonctionnalités
 
